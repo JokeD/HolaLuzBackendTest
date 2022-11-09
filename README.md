@@ -61,10 +61,11 @@ Run integration tests
 
 ### Usage
 
-At the root level in ***storage/*** folder there are the two files
+At the root level in ***storage/*** folder there are three files
 
 - 2016-readings.csv
 - 2016-readings.xml
+- 2016-readings.json
 
 Browse to folder :  **ops/docker/**
 and then :
