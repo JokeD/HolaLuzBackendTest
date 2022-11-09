@@ -53,7 +53,7 @@ and then :
 
 ### Tests
 
-Run integration tests
+Run integration and unit tests
 
 ```bash
 ./tests
