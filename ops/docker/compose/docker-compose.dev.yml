@@ -1,0 +1,19 @@
+version: '3.9'
+
+services:
+  php_cli:
+    container_name: test.php
+    build:
+      context: ../images/php-cli
+    image: test
+    working_dir: /usr/share/test
+    volumes:
+      - ../../../:/usr/share/test
+    ports:
+      - 8001:8001
+    command: symfony server:start --port=8001
+    networks:
+      - test_net
+      
+networks:
+  test_net:

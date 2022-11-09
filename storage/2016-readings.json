@@ -1,0 +1,602 @@
+[
+  {
+    "client": "583ef6329d7b9",
+    "period": "2016-01",
+    "reading": 42451
+  },
+  {
+    "client": "583ef6329d7b9",
+    "period": "2016-02",
+    "reading": 44279
+  },
+  {
+    "client": "583ef6329d7b9",
+    "period": "2016-03",
+    "reading": 44055
+  },
+  {
+    "client": "583ef6329d7b9",
+    "period": "2016-04",
+    "reading": 40953
+  },
+  {
+    "client": "583ef6329d7b9",
+    "period": "2016-05",
+    "reading": 42566
+  },
+  {
+    "client": "583ef6329d7b9",
+    "period": "2016-06",
+    "reading": 41216
+  },
+  {
+    "client": "583ef6329d7b9",
+    "period": "2016-07",
+    "reading": 43597
+  },
+  {
+    "client": "583ef6329d7b9",
+    "period": "2016-08",
+    "reading": 43324
+  },
+  {
+    "client": "583ef6329d7b9",
+    "period": "2016-09",
+    "reading": 3564
+  },
+  {
+    "client": "583ef6329d7b9",
+    "period": "2016-10",
+    "reading": 44459
+  },
+  {
+    "client": "583ef6329d7b9",
+    "period": "2016-11",
+    "reading": 42997
+  },
+  {
+    "client": "583ef6329d7b9",
+    "period": "2016-12",
+    "reading": 42600
+  },
+  {
+    "client": "583ef6329d81f",
+    "period": "2016-01",
+    "reading": 39760
+  },
+  {
+    "client": "583ef6329d81f",
+    "period": "2016-02",
+    "reading": 38785
+  },
+  {
+    "client": "583ef6329d81f",
+    "period": "2016-03",
+    "reading": 37519
+  },
+  {
+    "client": "583ef6329d81f",
+    "period": "2016-04",
+    "reading": 39028
+  },
+  {
+    "client": "583ef6329d81f",
+    "period": "2016-05",
+    "reading": 39469
+  },
+  {
+    "client": "583ef6329d81f",
+    "period": "2016-06",
+    "reading": 37463
+  },
+  {
+    "client": "583ef6329d81f",
+    "period": "2016-07",
+    "reading": 37152
+  },
+  {
+    "client": "583ef6329d81f",
+    "period": "2016-08",
+    "reading": 37756
+  },
+  {
+    "client": "583ef6329d81f",
+    "period": "2016-09",
+    "reading": 37398
+  },
+  {
+    "client": "583ef6329d81f",
+    "period": "2016-10",
+    "reading": 37770
+  },
+  {
+    "client": "583ef6329d81f",
+    "period": "2016-11",
+    "reading": 38948
+  },
+  {
+    "client": "583ef6329d81f",
+    "period": "2016-12",
+    "reading": 37342
+  },
+  {
+    "client": "583ef6329d85d",
+    "period": "2016-01",
+    "reading": 35181
+  },
+  {
+    "client": "583ef6329d85d",
+    "period": "2016-02",
+    "reading": 36095
+  },
+  {
+    "client": "583ef6329d85d",
+    "period": "2016-03",
+    "reading": 34258
+  },
+  {
+    "client": "583ef6329d85d",
+    "period": "2016-04",
+    "reading": 35233
+  },
+  {
+    "client": "583ef6329d85d",
+    "period": "2016-05",
+    "reading": 34573
+  },
+  {
+    "client": "583ef6329d85d",
+    "period": "2016-06",
+    "reading": 35527
+  },
+  {
+    "client": "583ef6329d85d",
+    "period": "2016-07",
+    "reading": 34428
+  },
+  {
+    "client": "583ef6329d85d",
+    "period": "2016-08",
+    "reading": 37182
+  },
+  {
+    "client": "583ef6329d85d",
+    "period": "2016-09",
+    "reading": 35544
+  },
+  {
+    "client": "583ef6329d85d",
+    "period": "2016-10",
+    "reading": 35793
+  },
+  {
+    "client": "583ef6329d85d",
+    "period": "2016-11",
+    "reading": 37420
+  },
+  {
+    "client": "583ef6329d85d",
+    "period": "2016-12",
+    "reading": 37771
+  },
+  {
+    "client": "583ef6329d89b",
+    "period": "2016-01",
+    "reading": 5970
+  },
+  {
+    "client": "583ef6329d89b",
+    "period": "2016-02",
+    "reading": 61524
+  },
+  {
+    "client": "583ef6329d89b",
+    "period": "2016-03",
+    "reading": 59532
+  },
+  {
+    "client": "583ef6329d89b",
+    "period": "2016-04",
+    "reading": 62011
+  },
+  {
+    "client": "583ef6329d89b",
+    "period": "2016-05",
+    "reading": 58325
+  },
+  {
+    "client": "583ef6329d89b",
+    "period": "2016-06",
+    "reading": 58386
+  },
+  {
+    "client": "583ef6329d89b",
+    "period": "2016-07",
+    "reading": 59355
+  },
+  {
+    "client": "583ef6329d89b",
+    "period": "2016-08",
+    "reading": 59681
+  },
+  {
+    "client": "583ef6329d89b",
+    "period": "2016-09",
+    "reading": 162078
+  },
+  {
+    "client": "583ef6329d89b",
+    "period": "2016-10",
+    "reading": 77599
+  },
+  {
+    "client": "583ef6329d89b",
+    "period": "2016-11",
+    "reading": 60952
+  },
+  {
+    "client": "583ef6329d89b",
+    "period": "2016-12",
+    "reading": 56894
+  },
+  {
+    "client": "583ef6329d8d9",
+    "period": "2016-01",
+    "reading": 40095
+  },
+  {
+    "client": "583ef6329d8d9",
+    "period": "2016-02",
+    "reading": 37849
+  },
+  {
+    "client": "583ef6329d8d9",
+    "period": "2016-03",
+    "reading": 36841
+  },
+  {
+    "client": "583ef6329d8d9",
+    "period": "2016-04",
+    "reading": 36940
+  },
+  {
+    "client": "583ef6329d8d9",
+    "period": "2016-05",
+    "reading": 39392
+  },
+  {
+    "client": "583ef6329d8d9",
+    "period": "2016-06",
+    "reading": 37873
+  },
+  {
+    "client": "583ef6329d8d9",
+    "period": "2016-07",
+    "reading": 38951
+  },
+  {
+    "client": "583ef6329d8d9",
+    "period": "2016-08",
+    "reading": 39436
+  },
+  {
+    "client": "583ef6329d8d9",
+    "period": "2016-09",
+    "reading": 38961
+  },
+  {
+    "client": "583ef6329d8d9",
+    "period": "2016-10",
+    "reading": 39332
+  },
+  {
+    "client": "583ef6329d8d9",
+    "period": "2016-11",
+    "reading": 36984
+  },
+  {
+    "client": "583ef6329d8d9",
+    "period": "2016-12",
+    "reading": 39187
+  },
+  {
+    "client": "583ef6329d916",
+    "period": "2016-01",
+    "reading": 41080
+  },
+  {
+    "client": "583ef6329d916",
+    "period": "2016-02",
+    "reading": 39599
+  },
+  {
+    "client": "583ef6329d916",
+    "period": "2016-03",
+    "reading": 40886
+  },
+  {
+    "client": "583ef6329d916",
+    "period": "2016-04",
+    "reading": 41026
+  },
+  {
+    "client": "583ef6329d916",
+    "period": "2016-05",
+    "reading": 39568
+  },
+  {
+    "client": "583ef6329d916",
+    "period": "2016-06",
+    "reading": 42946
+  },
+  {
+    "client": "583ef6329d916",
+    "period": "2016-07",
+    "reading": 40223
+  },
+  {
+    "client": "583ef6329d916",
+    "period": "2016-08",
+    "reading": 41512
+  },
+  {
+    "client": "583ef6329d916",
+    "period": "2016-09",
+    "reading": 2479
+  },
+  {
+    "client": "583ef6329d916",
+    "period": "2016-10",
+    "reading": 41334
+  },
+  {
+    "client": "583ef6329d916",
+    "period": "2016-11",
+    "reading": 42664
+  },
+  {
+    "client": "583ef6329d916",
+    "period": "2016-12",
+    "reading": 40179
+  },
+  {
+    "client": "583ef6329d954",
+    "period": "2016-01",
+    "reading": 21510
+  },
+  {
+    "client": "583ef6329d954",
+    "period": "2016-02",
+    "reading": 20825
+  },
+  {
+    "client": "583ef6329d954",
+    "period": "2016-03",
+    "reading": 21479
+  },
+  {
+    "client": "583ef6329d954",
+    "period": "2016-04",
+    "reading": 21573
+  },
+  {
+    "client": "583ef6329d954",
+    "period": "2016-05",
+    "reading": 21798
+  },
+  {
+    "client": "583ef6329d954",
+    "period": "2016-06",
+    "reading": 21280
+  },
+  {
+    "client": "583ef6329d954",
+    "period": "2016-07",
+    "reading": 20150
+  },
+  {
+    "client": "583ef6329d954",
+    "period": "2016-08",
+    "reading": 21926
+  },
+  {
+    "client": "583ef6329d954",
+    "period": "2016-09",
+    "reading": 21462
+  },
+  {
+    "client": "583ef6329d954",
+    "period": "2016-10",
+    "reading": 21668
+  },
+  {
+    "client": "583ef6329d954",
+    "period": "2016-11",
+    "reading": 20516
+  },
+  {
+    "client": "583ef6329d954",
+    "period": "2016-12",
+    "reading": 20639
+  },
+  {
+    "client": "583ef6329d990",
+    "period": "2016-01",
+    "reading": 43968
+  },
+  {
+    "client": "583ef6329d990",
+    "period": "2016-02",
+    "reading": 40389
+  },
+  {
+    "client": "583ef6329d990",
+    "period": "2016-03",
+    "reading": 42994
+  },
+  {
+    "client": "583ef6329d990",
+    "period": "2016-04",
+    "reading": 42569
+  },
+  {
+    "client": "583ef6329d990",
+    "period": "2016-05",
+    "reading": 42635
+  },
+  {
+    "client": "583ef6329d990",
+    "period": "2016-06",
+    "reading": 40736
+  },
+  {
+    "client": "583ef6329d990",
+    "period": "2016-07",
+    "reading": 43023
+  },
+  {
+    "client": "583ef6329d990",
+    "period": "2016-08",
+    "reading": 44412
+  },
+  {
+    "client": "583ef6329d990",
+    "period": "2016-09",
+    "reading": 42656
+  },
+  {
+    "client": "583ef6329d990",
+    "period": "2016-10",
+    "reading": 43445
+  },
+  {
+    "client": "583ef6329d990",
+    "period": "2016-11",
+    "reading": 44071
+  },
+  {
+    "client": "583ef6329d990",
+    "period": "2016-12",
+    "reading": 43752
+  },
+  {
+    "client": "583ef6329d9cd",
+    "period": "2016-01",
+    "reading": 34099
+  },
+  {
+    "client": "583ef6329d9cd",
+    "period": "2016-02",
+    "reading": 32920
+  },
+  {
+    "client": "583ef6329d9cd",
+    "period": "2016-03",
+    "reading": 32325
+  },
+  {
+    "client": "583ef6329d9cd",
+    "period": "2016-04",
+    "reading": 34928
+  },
+  {
+    "client": "583ef6329d9cd",
+    "period": "2016-05",
+    "reading": 33003
+  },
+  {
+    "client": "583ef6329d9cd",
+    "period": "2016-06",
+    "reading": 34826
+  },
+  {
+    "client": "583ef6329d9cd",
+    "period": "2016-07",
+    "reading": 33001
+  },
+  {
+    "client": "583ef6329d9cd",
+    "period": "2016-08",
+    "reading": 32115
+  },
+  {
+    "client": "583ef6329d9cd",
+    "period": "2016-09",
+    "reading": 34088
+  },
+  {
+    "client": "583ef6329d9cd",
+    "period": "2016-10",
+    "reading": 32621
+  },
+  {
+    "client": "583ef6329d9cd",
+    "period": "2016-11",
+    "reading": 34249
+  },
+  {
+    "client": "583ef6329d9cd",
+    "period": "2016-12",
+    "reading": 34426
+  },
+  {
+    "client": "583ef6329da0b",
+    "period": "2016-01",
+    "reading": 28798
+  },
+  {
+    "client": "583ef6329da0b",
+    "period": "2016-02",
+    "reading": 29233
+  },
+  {
+    "client": "583ef6329da0b",
+    "period": "2016-03",
+    "reading": 28823
+  },
+  {
+    "client": "583ef6329da0b",
+    "period": "2016-04",
+    "reading": 29762
+  },
+  {
+    "client": "583ef6329da0b",
+    "period": "2016-05",
+    "reading": 27959
+  },
+  {
+    "client": "583ef6329da0b",
+    "period": "2016-06",
+    "reading": 28496
+  },
+  {
+    "client": "583ef6329da0b",
+    "period": "2016-07",
+    "reading": 29880
+  },
+  {
+    "client": "583ef6329da0b",
+    "period": "2016-08",
+    "reading": 29852
+  },
+  {
+    "client": "583ef6329da0b",
+    "period": "2016-09",
+    "reading": 30100
+  },
+  {
+    "client": "583ef6329da0b",
+    "period": "2016-10",
+    "reading": 28645
+  },
+  {
+    "client": "583ef6329da0b",
+    "period": "2016-11",
+    "reading": 30207
+  },
+  {
+    "client": "583ef6329da0b",
+    "period": "2016-12",
+    "reading": 29129
+  }
+]
